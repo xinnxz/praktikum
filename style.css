@@ -1,0 +1,14 @@
+.tanpa-bootstrap {
+    padding: 10px;
+    background-color: aquamarine;
+    color: #333;
+    border: none;
+    border-radius: 20px;
+}
+
+.tanpa-bootstrap:hover {
+    background-color: #333;
+    transition: .4s;
+    transform: matrix(20);
+    color: aquamarine;
+}
